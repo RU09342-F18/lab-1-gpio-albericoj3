@@ -9,7 +9,7 @@ The pins for the MSP430G22553 include:
 * Button: 1.3 (input) - includes a pull up resistor configured to the pin
 * LED: 1.0 (output)
 
-## OTHER BOARD
+## MSP4305529LP
 The pins for the MSP4305529LP include:
 * Button: 2.1 (input) - includes a pull up resistor configured to the pin
 * LED: 1.0 (output)
