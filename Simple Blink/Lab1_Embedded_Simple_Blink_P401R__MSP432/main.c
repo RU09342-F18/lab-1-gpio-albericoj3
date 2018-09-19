@@ -2,7 +2,7 @@
 
 
 /**
- * Button Blink G2
+ * Button Blink MSP432P401R
  * Author: Jordan Alberico
  * Created: 9/12/18
  * Last Edited: 9/12/18
